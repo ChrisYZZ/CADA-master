@@ -2,7 +2,7 @@
 Python code for 	OPT2020 paper: Tianyi Chen, Ziye Guo, Yuejiao Sun, Wotao Yin, "CADA: Communication-Adaptive Distributed Adam". [online] https://arxiv.org/abs/2012.15469
 
 
-Reference:
+# Reference:
 Please cite our paper if our code helps you in your research.
 @misc{chen2020cada,
       title={CADA: Communication-Adaptive Distributed Adam}, 
