@@ -1,12 +1,23 @@
 # CADA-master
-Stochastic gradient descent (SGD) has taken the stage as the primary workhorse for large-scale machine learning. It is often used with its adaptive variants such as AdaGrad, Adam, and AMSGrad. This paper proposes an adaptive stochastic gradient descent method for distributed machine learning, which can be viewed as the communication-adaptive counterpart of the celebrated Adam method - justifying its name CADA. The key components of CADA are a set of new rules tailored for adaptive stochastic gradients that can be implemented to save communication upload. The new algorithms adaptively reuse the stale Adam gradients, thus saving communication, and still have convergence rates comparable to original Adam. In numerical experiments, CADA achieves impressive empirical performance in terms of total communication round reduction.
+Python code for 	OPT2020 paper: Tianyi Chen, Ziye Guo, Yuejiao Sun, Wotao Yin, "CADA: Communication-Adaptive Distributed Adam". [online] https://arxiv.org/abs/2012.15469
 
 
-Reference:@misc{chen2020cada,
+Reference:
+Please cite our paper if our code helps you in your research.
+@misc{chen2020cada,
       title={CADA: Communication-Adaptive Distributed Adam}, 
       author={Tianyi Chen and Ziye Guo and Yuejiao Sun and Wotao Yin},
       year={2020},
       eprint={2012.15469},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
+}
+Or
+@misc{chen2020lasg,
+      title={LASG: Lazily Aggregated Stochastic Gradients for Communication-Efficient Distributed Learning}, 
+      author={Tianyi Chen and Yuejiao Sun and Wotao Yin},
+      year={2020},
+      eprint={2002.11360},
+      archivePrefix={arXiv},
+      primaryClass={math.OC}
 }
