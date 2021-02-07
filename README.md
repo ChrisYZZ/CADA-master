@@ -12,7 +12,7 @@ Please cite our paper if our code helps you in your research.
       eprint={2012.15469},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
-}
+            }
 
 Or
 
@@ -23,5 +23,5 @@ Or
       eprint={2002.11360},
       archivePrefix={arXiv},
       primaryClass={math.OC}
-}
+            }
 
