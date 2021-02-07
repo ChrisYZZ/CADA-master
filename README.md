@@ -4,7 +4,7 @@ Python code for AISTATS2021 paper: Tianyi Chen, Ziye Guo, Yuejiao Sun, Wotao Yin
 # Reference:
 Please cite our paper if our code helps you in your research.
 
-            @misc{chen2020cada,
+      @misc{chen2020cada,
       title={CADA: Communication-Adaptive Distributed Adam}, 
       author={Tianyi Chen and Ziye Guo and Yuejiao Sun and Wotao Yin},
       year={2020},
