@@ -4,6 +4,7 @@ Python code for 	OPT2020 paper: Tianyi Chen, Ziye Guo, Yuejiao Sun, Wotao Yin, "
 
 # Reference:
 Please cite our paper if our code helps you in your research.
+'''
 @misc{chen2020cada,
       title={CADA: Communication-Adaptive Distributed Adam}, 
       author={Tianyi Chen and Ziye Guo and Yuejiao Sun and Wotao Yin},
@@ -12,7 +13,9 @@ Please cite our paper if our code helps you in your research.
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
+'''
 Or
+'''
 @misc{chen2020lasg,
       title={LASG: Lazily Aggregated Stochastic Gradients for Communication-Efficient Distributed Learning}, 
       author={Tianyi Chen and Yuejiao Sun and Wotao Yin},
@@ -21,3 +24,4 @@ Or
       archivePrefix={arXiv},
       primaryClass={math.OC}
 }
+'''
